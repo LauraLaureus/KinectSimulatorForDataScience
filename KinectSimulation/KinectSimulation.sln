@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DF8A7FB2-73AB-FFB3-431C-229AC89E565C}") = "KinectSimulation", "Assembly-CSharp.csproj", "{805BC590-3745-F239-45E2-0B156E37647F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{805BC590-3745-F239-45E2-0B156E37647F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805BC590-3745-F239-45E2-0B156E37647F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805BC590-3745-F239-45E2-0B156E37647F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805BC590-3745-F239-45E2-0B156E37647F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
